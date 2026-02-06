@@ -1,0 +1,2 @@
+# The_Game_Of_Trusters_Video_Game_Adaptation_GCSE
+A port of The_Game_Of_Trusters_Video_Game_Adaptation_Compacted for Roblox
