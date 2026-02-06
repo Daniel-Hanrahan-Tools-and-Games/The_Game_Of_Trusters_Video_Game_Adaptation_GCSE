@@ -1,7 +1,7 @@
 # The_Game_Of_Trusters_Video_Game_Adaptation_GCSE
 A Game Creation System Experience version of The_Game_Of_Trusters_Video_Game_Adaptation_Compacted for Roblox.
 
-both source code and game is under .rbxl file but however source code is in StarterPlayer > StarterPlayerScript > localscript.
+Both source code and game is under .rbxl file but however source code is in StarterPlayer > StarterPlayerScript > localscript.
 
 This version has combat similar to for the frog the bell tolls but same ruleset, the main goal here is to get as much treasure as possible before you die and fusions are random.
 
